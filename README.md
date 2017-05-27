@@ -1,6 +1,8 @@
 # Meetup - Responsive Bootstrap Template
 Meetup is a one-page responsive template built with bootstrap.
 
+# [DEMO HERE!](https://charlesanim.github.io/MeetUp/)
+
 ## Features
 - One Page multi purpose
 - Built with Bootstrap 
