@@ -1,0 +1,15 @@
+{
+  "name": "MeetUP",
+  "short_name": "A Single Page Event Project",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#016cc7",
+  "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
